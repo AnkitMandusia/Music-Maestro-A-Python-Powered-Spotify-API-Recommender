@@ -61,5 +61,5 @@ This project makes use of several Python libraries to perform various tasks:
 
 
 
-![Alt Text](Screenshot 2023-09-14 223413.png)
+![Alt Text](https://github.com/AnkitMandusia/Music-Recommendation-System-using-Python/blob/4ba60adebc5c927a9386c43fd117af4de57b557b/Screenshot%202023-09-14%20223413.png)
 
